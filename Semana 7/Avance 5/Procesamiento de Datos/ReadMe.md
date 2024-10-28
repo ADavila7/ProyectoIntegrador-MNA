@@ -1,0 +1,1 @@
+En esta carpeta se encuentra la libreta con el procedimiento para el procesamiento de los datos realizado en semanas anteriores. Esto se ha hecho para simplificar la lectura de los avances sin perder el proceso acumulado.
