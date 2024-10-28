@@ -1,0 +1,1 @@
+En esta carpeta se encuentran un par de archivos .csv con el contenido de las funciones de procesamiento de datos. Esto incluye las listas con las temperaturas estandarizadas y el vector de características reducido.
